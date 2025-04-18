@@ -48,3 +48,11 @@ Any granted patent which attempts to monopolize this method **must consider this
 This idea is released under the **Apache 2.0 License**, allowing free use, modification, and distribution — with a patent retaliation clause to protect against misuse.
 
 You are free to use this idea commercially or non-commercially, with or without changes, as long as you follow the license terms.
+
+
+## 🆔 DOI & Archival
+
+This public disclosure is permanently archived via Zenodo:  
+**DOI**: [10.5281/zenodo.15243693](https://doi.org/10.5281/zenodo.15243693)
+
+This ensures the idea remains citable and protected as prior art.
