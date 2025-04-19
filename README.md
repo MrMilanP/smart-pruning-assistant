@@ -81,9 +81,10 @@ This idea is published under the **Apache 2.0 License**, which:
 
 ## 🆔 Archival
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15245416.svg)](https://doi.org/10.5281/zenodo.15245416)  
-This disclosure is permanently archived and timestamped via Zenodo.  
-It ensures the idea remains **citable**, **verifiable**, and **legally recognized** as prior art.
+This disclosure will be permanently archived and timestamped via a public repository.
+
+*DOI to be provided after final review.*
+
 
 
 
