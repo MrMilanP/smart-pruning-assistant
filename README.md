@@ -3,56 +3,88 @@
 Prior art disclosure of an AR-based Android app concept for pruning fruit trees using machine learning.
 
 **Author**: Milan Petrović  
-**Initial concept date**: March 2025   
-**Published as prior art**: April 18. 2025.  
-**License**: Apache 2.0
+**Initial concept date**: March 2025  
+**Published as prior art**: April 18, 2025  
+**License**: Apache 2.0  
 
 ---
 
 ## 🔍 Idea Summary
 
-This project discloses a concept for an Android mobile application designed to assist users in pruning fruit trees.
+This project discloses a concept for a mobile application designed to assist users in pruning fruit trees using **machine learning** and **augmented reality (AR)**.
 
-While walking around a tree (e.g. an apple tree), the user points their smartphone camera at the branches.  
-The app uses machine learning (ML) to analyze the structure and shape of the tree — including common training shapes like "vase" or "conical" — and overlays **suggested cutting lines** directly on the screen, in real time, using AR (Augmented Reality).
+While walking around a tree (e.g., apple tree), the user points their smartphone camera at the branches.  
+The app uses ML to analyze the tree's structure and overlays **suggested cutting lines** directly on the screen.
 
-The core idea was independently conceived by the author in Serbia without knowledge of any other similar system, and is now released publicly to:
+The core idea was independently conceived by the author in Serbia, without any prior knowledge of similar patent filings or commercial systems, and is now published to:
 
 - prevent exclusive patent claims over this general idea,
-- support the open development of affordable pruning tools,
-- allow others to build similar systems freely.
+- support open development of accessible pruning tools,
+- allow anyone to build similar systems freely and legally.
 
 ---
 
-## 💡 Technical Flow (Concept Only)
+## 💡 Technical Flow (Concept Overview)
 
-1. User moves around the fruit tree with their phone.
-2. The phone's camera captures multiple 2D images.
-3. ML model (e.g. trained with labeled "vase shape" datasets) analyzes branch positions.
-4. Suggested cut lines are computed and rendered **as overlays** on the camera feed.
-5. No 3D reconstruction is required; detection works with 2D visual data only.
+### 2D-Only Flow
+1. User walks around the tree holding a phone.
+2. Camera captures a sequence of **2D images**.
+3. ML model (trained on labeled datasets) analyzes branch angles and form.
+4. Suggested cut lines are calculated and overlaid live on screen.
+5. **No 3D model** is required.
+
+### Optional 3D Extension (Included in Prior Art)
+1. Multiple 2D images are optionally used to reconstruct a 3D structure.
+2. ML model identifies key branch features (e.g., bifurcations, canes).
+3. Cut instructions are rendered over the 3D structure or camera feed.
+4. AR rendering synchronizes overlay with real-world visuals.
+
+---
+
+## 📜 Claims-style Breakdown (for patent clarity)
+
+The following functional elements are disclosed as prior art:
+
+1. A mobile system for assisting pruning using an **on-device camera** and **ML-based analysis**.
+2. Real-time **overlay of cut suggestions** on live video using AR.
+3. Classification of branch geometry using **shape models** (e.g., “vase”, “conical”).
+4. Optional generation of a **3D digital model** from multiple 2D images for enhanced analysis.
+5. No dependence on specialized hardware (e.g., depth sensors or LIDAR).
+6. System operable **without external servers** (fully on-device possible).
+7. Support for educational or assistive feedback via visual annotations.
 
 ---
 
 ## 🔓 Legal Notice
 
-This repository and all its content are published as **prior art**.  
-The author **does not seek patent protection**, and explicitly rejects any attempt to claim exclusive rights over this idea.
+This repository and all its contents are published as **defensive prior art**.  
+The author **explicitly disclaims any exclusive rights** over the general method or system, including any implementation involving:
 
-Any granted patent which attempts to monopolize this method **must consider this disclosure as prior art**.
+- 2D or 3D image capture,
+- mobile device-based pruning guidance,
+- ML-based feature analysis,
+- augmented reality rendering.
+
+Any patent filed after this disclosure attempting to claim such features must **account for this public prior art**.
 
 ---
 
 ## 🌍 Open for All
 
-This idea is released under the **Apache 2.0 License**, allowing free use, modification, and distribution — with a patent retaliation clause to protect against misuse.
+This idea is published under the **Apache 2.0 License**, which:
 
-You are free to use this idea commercially or non-commercially, with or without changes, as long as you follow the license terms.
+- allows unrestricted use, redistribution, and modification;
+- includes a **patent retaliation clause** protecting the community;
+- enables both commercial and non-commercial reuse.
 
+---
 
-## 🆔 DOI & Archival
+## 🆔 Archival
 
-This public disclosure is permanently archived via Zenodo:  
+This disclosure is permanently archived and timestamped via Zenodo.
+
 **DOI**: [10.5281/zenodo.15243693](https://doi.org/10.5281/zenodo.15243693)
 
-This ensures the idea remains citable and protected as prior art.
+This ensures the idea remains **citable**, **verifiable**, and **legally recognized** as prior art.
+
+---
