@@ -83,7 +83,7 @@ This idea is published under the **Apache 2.0 License**, which:
 
 This disclosure is permanently archived and timestamped via Zenodo.
 
-**DOI**: [10.5281/zenodo.15243693](https://doi.org/10.5281/zenodo.15243693)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15245288.svg)](https://doi.org/10.5281/zenodo.15245288)
 
 This ensures the idea remains **citable**, **verifiable**, and **legally recognized** as prior art.
 
