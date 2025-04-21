@@ -4,7 +4,7 @@ Prior art disclosure of an AR-based Android app concept for pruning fruit trees 
 
 **Author**: Milan Petrović  
 **Initial concept date**: March 2025  
-**Published as prior art**: April 18, 2025  
+**Published as prior art**: April 21, 2025  
 **License**: Apache 2.0  
 
 ---
