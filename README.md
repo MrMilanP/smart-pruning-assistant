@@ -140,7 +140,9 @@ This idea is published under the **Apache 2.0 License**, which:
 
 ## 🌝 Archival
 
-This disclosure will be permanently archived and timestamped via a public repository.  
-*DOI to be added after final Zenodo deposit.*
+This disclosure is permanently archived and timestamped via a public repository.
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15253870.svg)](https://doi.org/10.5281/zenodo.15253870)
+
 
 ---
